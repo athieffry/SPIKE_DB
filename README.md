@@ -9,7 +9,7 @@ Other information on a sensor-basis are also made available, with the possibilit
 Finally, the effect of calibration is also
 <br>
 <br>
-Note that this very initial app was made as a side-project on a gray weekend day.
+Note that this very initial app was made as a side-project on a rainy weekend.
 I realized not long after that SPIKE DB was trying to replicate a solution already existing: <a href="http://www.nightscout.info">the NightScout app</a>.
 Hence, this repository is purely symbolic and the SPIKE DB project has been discontinued.
 
