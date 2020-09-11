@@ -61,7 +61,7 @@ An R installation with the following libraries is required:
 </ul>
 Any change of settings is reflected dynamically in the graph and its associated piechart summary.
 <i>Note that despite piecharts are the worst visualization possible, it has been kept because healthcare professionals are used to look at them.</i>
-
+<br>
 <h3>Abbott FreeStyle Libre sensor</h3>
   <img src="images/spike_3.png">
 <ul><li><b>Distribution of BG readings per sensor</b>: Allows to potentially identify a broken sensor</li>
