@@ -58,7 +58,7 @@ An R installation with the following libraries is required:
   <li>Enable/disable calibration display (blue triangles)</li>
   <li>Enable/disable distinction of day and night</li>
   <li>Piechart summary of time-in-range (TIR), as a percentage</li>
-</ul>
+</ul><br>
 Any change of settings is reflected dynamically in the graph and its associated piechart summary.
 <i>Note that despite piecharts are the worst visualization possible, it has been kept because healthcare professionals are used to look at them.</i>
 <br>
