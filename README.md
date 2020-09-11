@@ -6,7 +6,7 @@ This R Shiny-based app allows for easy browsing of blood glucose data from the S
 SPIKE data are exportable as a SQL3 database (see below), from which are extracted general summaries.
 The core of SPIKE DB is the ability to explore day-by-day blood glucose values.
 Other information on a sensor-basis are also made available, with the possibility to identify a potentially faulty sensor.
-Finally, the effect of calibration is also
+Finally, the effect of calibration as a function of the glucose stability context is also investigated.
 <br>
 <br>
 Note that this very initial app was made as a side-project on a rainy weekend.
