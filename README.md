@@ -18,7 +18,7 @@ Source: <a href="https://spike-app.com">SPIKE app</a><br>
 Format: SQL3 database (<i>.db</i> file, see first part of <a href="https://github.com/SpikeApp/Spike/wiki/Migration-From-Previous-Versions">this guide</a> for extraction)<br>
 
 <h2>Requirements</h2>
-R and the following packages installed:
+An R installation with the following libraries is required:
 <ul>
 <li>tidyverse</li>
 <li>tidylog</li>
@@ -39,7 +39,6 @@ R and the following packages installed:
 <li>plotly</li>
 <li>lubridate</li>
 <li>RSQLite</li>
-<li>waffle</li></ul>
 
 <h2>Visualizations</h2>
 
@@ -50,7 +49,7 @@ R and the following packages installed:
 <li>Summarizes the current SPIKE SQL3 database, number of sensors, and calibration</li>
 <li>Sensor is the <a href="https://www.freestylelibre.co.uk/libre/">Abbott FreeStyle Libre</a> transformed into a continuous glucose monitor (CGM) via the <a href="https://miaomiao.cool">MiaoMiao transmitter</a></li></ul>
 
-<h3>BD Daily Readings</h3>
+<h3>BG Daily Readings</h3>
   <img src="images/spike_2.png">
 <ul>
   <li>Selection of day with a calendar drop-out</li>
